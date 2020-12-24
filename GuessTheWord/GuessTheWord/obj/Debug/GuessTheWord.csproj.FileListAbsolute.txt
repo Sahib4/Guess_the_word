@@ -1,0 +1,12 @@
+/Users/sahibnarang/Documents/C# /HangerMan/HangerMan/bin/Debug/HangerMan.exe
+/Users/sahibnarang/Documents/C# /HangerMan/HangerMan/bin/Debug/HangerMan.pdb
+/Users/sahibnarang/Documents/C# /HangerMan/HangerMan/obj/Debug/GuessTheWord.csprojAssemblyReference.cache
+/Users/sahibnarang/Documents/C# /HangerMan/HangerMan/obj/Debug/GuessTheWord.csproj.CoreCompileInputs.cache
+/Users/sahibnarang/Documents/C# /HangerMan/HangerMan/obj/Debug/HangerMan.exe
+/Users/sahibnarang/Documents/C# /HangerMan/HangerMan/obj/Debug/HangerMan.pdb
+/Users/sahibnarang/Documents/C# /GuessTheWord/GuessTheWord/bin/Debug/HangerMan.exe
+/Users/sahibnarang/Documents/C# /GuessTheWord/GuessTheWord/bin/Debug/HangerMan.pdb
+/Users/sahibnarang/Documents/C# /GuessTheWord/GuessTheWord/obj/Debug/GuessTheWord.csprojAssemblyReference.cache
+/Users/sahibnarang/Documents/C# /GuessTheWord/GuessTheWord/obj/Debug/GuessTheWord.csproj.CoreCompileInputs.cache
+/Users/sahibnarang/Documents/C# /GuessTheWord/GuessTheWord/obj/Debug/HangerMan.exe
+/Users/sahibnarang/Documents/C# /GuessTheWord/GuessTheWord/obj/Debug/HangerMan.pdb
