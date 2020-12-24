@@ -1,3 +1,0 @@
-/Users/sahibnarang/Documents/C# /HangerMan/HangerMan/bin/Release/HangerMan.exe
-/Users/sahibnarang/Documents/C# /HangerMan/HangerMan/obj/Release/HangerMan.csproj.CoreCompileInputs.cache
-/Users/sahibnarang/Documents/C# /HangerMan/HangerMan/obj/Release/HangerMan.exe
